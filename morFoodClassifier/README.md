@@ -1,5 +1,7 @@
 # Recogonize Moroccan Food with TensorFLow Lite Model Maker and Android Studio ML Model Binding
 
+![Moroccan Food Classfier - Couscous example](./resources/morfoodclassifier.PNG)
+
 This folder contains the code for the TensorFlow Lite inspired from the following codelab:
 
 * [Recognize Flowers with TensorFlow on Android (Beta)](https://goo.gle/3dbCSbt)
