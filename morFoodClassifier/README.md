@@ -1,6 +1,6 @@
-# Recogonize Flowers with TensorFLow Lite Model Maker and Android Studio ML Model Binding
+# Recogonize Moroccan Food with TensorFLow Lite Model Maker and Android Studio ML Model Binding
 
-This folder contains the code for the TensorFlow Lite codelab:
+This folder contains the code for the TensorFlow Lite inspired from the following codelab:
 
 * [Recognize Flowers with TensorFlow on Android (Beta)](https://goo.gle/3dbCSbt)
 
@@ -21,7 +21,9 @@ In these codelabs, you will learn:
 
 ## Getting Started
 
-Visit the Google codelabs site to follow along the guided steps.
+1. [Train your model](https://bit.ly/morfoodclassifier)
+2. Visit the Google codelabs site to follow along the guided steps => [Recognize Flowers with TensorFlow on Android (Beta)](https://goo.gle/3dbCSbt)
+3. If you have an IOS please follow this tutorial => [Recognize Flowers with TensorFlow Lite on iOS](https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-ios#9)
 
 ## Support
 
